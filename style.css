@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+header{
+background-color:#0776A0;
+}
+h1{
+    text-align:center;
+}
+a{
+    border-color:#FF2C00;
+    border:0px;
+}
+ul{
+  list-style:url("https://i.ibb.co/NgkxJWd8/image.png");
+}  
+h2{
+    color:#FF2C00;
+}
